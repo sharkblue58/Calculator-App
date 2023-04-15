@@ -1,5 +1,5 @@
 <template>
-  <h1>calculator</h1>
+  <h1>calculator App</h1>
   <div class="calculator">
     <div class="display">{{current || '0'}}</div>
     <div @click="clear" class="btn">C</div>
